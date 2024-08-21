@@ -115,5 +115,5 @@ This is a continuous learning process. I plan to explore advancements in AI and 
 * **Cloud-based Training:** Explore options like cloud-based training platforms, like Google Cloud AI Platform or Amazon SageMaker, that allow leveraging powerful GPU resources for training the more computationally demanding models.  
 * **Performance Monitoring:** Continuously monitor the performance of YOLO models for each task, assessing areas where potential DETR upgrades could be made to enhance accuracy or efficiency.
 
-
+Check out the [Presentation](https://www.canva.com/design/DAGOeYrd--4/jqpzSUm9gg6EaNd7cXWc6w/view?utm_content=DAGOeYrd--4&utm_campaign=designshare&utm_medium=link&utm_source=editor) to learn more about the company.
 
