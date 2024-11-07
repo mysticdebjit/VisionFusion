@@ -1,3 +1,4 @@
+## VisionFusion
 ## Multi-Modal Analysis Tool: Unlocking the Secrets of Your Images
 
 **Welcome to the Gemstone Analysis Tool – your one-stop shop for unlocking the hidden stories and information within your images!** This project goes beyond simple image viewing; it's a powerful platform for exploring your images with depth and accuracy, extracting insights and creating actionable data from your visual world. 
